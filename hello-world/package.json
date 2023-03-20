@@ -1,18 +1,15 @@
 {
-    "name":"Hello-world",
-    "version":"1.0.0",
-    "description": "",
-    "main": "index.js",
-
-    "scripts": {
-        "test":"echo\"Eror:no test specifies\" && exit 1"
-
-    },
-    "author": "",
-    "license": "ISC"
-
-<<<<<<< HEAD
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.36.0"
+  }
 }
-=======
-}
->>>>>>> 2e57c4353ebb38bdaf62f3a122ba34d60a299a22
